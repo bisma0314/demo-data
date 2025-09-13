@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.2" created="2025-09-11 11:04" -->
+	<!-- generator="WordPress/6.8.2" created="2025-09-13 06:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>idolized-dormouse-c998f2.instawp.site</title>
 	<link>https://idolized-dormouse-c998f2.instawp.site</link>
 	<description></description>
-	<pubDate>Thu, 11 Sep 2025 11:04:39 +0000</pubDate>
+	<pubDate>Sat, 13 Sep 2025 06:01:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://idolized-dormouse-c998f2.instawp.site</wp:base_site_url>
@@ -183,15 +183,15 @@
 		<wp:term_name><![CDATA[Contact Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>14</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[design]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Design]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>3</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[design]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Design]]></wp:term_name>
@@ -8211,107 +8211,277 @@
 		</wp:postmeta>
 							</item>
 					<item>
-    <title><![CDATA[Contact form]]></title>
-    <link>https://idolized-dormouse-c998f2.instawp.site/cwp_forms/contact-form/</link>
-    <pubDate>Tue, 05 Aug 2025 10:42:22 +0000</pubDate>
-    <dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-    <guid isPermaLink="false">https://masterful-duck-8d3b82.instawp.site/cwp_forms/contact-form/</guid>
-    <description></description>
-    <content:encoded><![CDATA[Get in touch with us for any inquiries, support, or feedback. We're here to help!]]></content:encoded>
-    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>4508</wp:post_id>
-    <wp:post_date><![CDATA[2025-08-05 10:42:22]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2025-08-05 10:42:22]]></wp:post_date_gmt>
-    <wp:post_modified><![CDATA[2025-08-25 11:08:34]]></wp:post_modified>
-    <wp:post_modified_gmt><![CDATA[2025-08-25 11:08:34]]></wp:post_modified_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[contact-form]]></wp:post_name>
-    <wp:status><![CDATA[publish]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[cwp_forms]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-
-    <wp:postmeta>
-        <wp:meta_key><![CDATA[_cwp_group_fields]]></wp:meta_key>
-        <wp:meta_value><![CDATA[
-{
-  "cwp_field_532461556218":{
-    "label":"Your Name *",
-    "name":"cwp_field_532461556218",
-    "type":"text",
-    "placeholder":"Your name",
-    "class":"hs-contact-name-field",
-    "container_class":"contact-form",
-    "group_id":"4508"
-  },
-  "cwp_field_215607959299":{
-    "label":"Your Email *",
-    "name":"cwp_field_215607959299",
-    "type":"email",
-    "placeholder":"Your email",
-    "class":"hs-contact-email-field",
-    "container_class":"contact-form",
-    "group_id":"4508"
-  },
-  "cwp_field_795539147799":{
-    "label":"Message *",
-    "name":"cwp_field_795539147799",
-    "type":"text",
-    "placeholder":"Write your message",
-    "class":"hs-contact-message-field",
-    "container_class":"contact-form",
-    "group_id":"4508"
-  }
-}
-        ]]></wp:meta_value>
-    </wp:postmeta>
-</item>
-
-<item>
-    <title><![CDATA[Newsletter Form]]></title>
-    <link>https://idolized-dormouse-c998f2.instawp.site/cwp_forms/newsletter-form/</link>
-    <pubDate>Tue, 05 Aug 2025 10:56:33 +0000</pubDate>
-    <dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-    <guid isPermaLink="false">https://masterful-duck-8d3b82.instawp.site/cwp_forms/newsletter-form/</guid>
-    <description></description>
-    <content:encoded><![CDATA[It is used for registration]]></content:encoded>
-    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>4509</wp:post_id>
-    <wp:post_date><![CDATA[2025-08-05 10:56:33]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2025-08-05 10:56:33]]></wp:post_date_gmt>
-    <wp:post_modified><![CDATA[2025-08-05 10:56:33]]></wp:post_modified>
-    <wp:post_modified_gmt><![CDATA[2025-08-05 10:56:33]]></wp:post_modified_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[newsletter-form]]></wp:post_name>
-    <wp:status><![CDATA[publish]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[cwp_forms]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-
-    <wp:postmeta>
-        <wp:meta_key><![CDATA[_cwp_group_fields]]></wp:meta_key>
-        <wp:meta_value><![CDATA[
-{
-  "cwp_field_126786873299":{
-    "label":"Your Email",
-    "name":"cwp_field_126786873299",
-    "type":"email",
-    "placeholder":"Your Email",
-    "class":"hs-newslatter-form-field",
-    "container_class":"newslatter-form",
-    "group_id":"4457"
-  }
-}
-        ]]></wp:meta_value>
-    </wp:postmeta>
-</item>
-
+		<title><![CDATA[Contact form]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/cwp_forms/contact-form/</link>
+		<pubDate>Tue, 05 Aug 2025 10:42:22 +0000</pubDate>
+		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
+		<guid isPermaLink="false">https://masterful-duck-8d3b82.instawp.site/cwp_forms/contact-form/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Get in touch with us for any inquiries, support, or feedback. We're here to help!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4508</wp:post_id>
+		<wp:post_date><![CDATA[2025-08-05 10:42:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-08-05 10:42:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-08-25 11:08:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-08-25 11:08:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[cwp_forms]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_login]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_display]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_mailchimp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_emails]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_form_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_user_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_page_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Send Message]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Send Message]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_width]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cwp-forms-style3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cwp_field_532461556218,cwp_field_215607959299,cwp_field_795539147799]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_custom_form_data_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"33763512268941dd4dbc5f":"33763512268941dd4dbc5f"}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_login]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_display]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_mailchimp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_emails]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_form_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_user_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_page_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Send Message]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Send Message]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_width]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cwp-forms-style3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cwp_field_532461556218,cwp_field_215607959299,cwp_field_795539147799]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_custom_form_data_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"33763512268941dd4dbc5f":"33763512268941dd4dbc5f"}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Newsletter Form]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/cwp_forms/newsletter-form/</link>
+		<pubDate>Tue, 05 Aug 2025 10:56:33 +0000</pubDate>
+		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
+		<guid isPermaLink="false">https://masterful-duck-8d3b82.instawp.site/cwp_forms/newsletter-form/</guid>
+		<description></description>
+		<content:encoded><![CDATA[It is used for registration]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4509</wp:post_id>
+		<wp:post_date><![CDATA[2025-08-05 10:56:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-08-05 10:56:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-08-05 10:56:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-08-05 10:56:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[newsletter-form]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[cwp_forms]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_login]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_display]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_mailchimp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_emails]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_form_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[email-form]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_user_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_page_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Submit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Submit-btn]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_width]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cwp-forms-style1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cwp_field_126786873299]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_custom_form_data_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"12325785196891f4248f38e":"12325785196891f4248f38e","13843299346891f43ebfd32":"13843299346891f43ebfd32","864215342689c7f795af7e":"864215342689c7f795af7e","2026867862689ee43270fac":"2026867862689ee43270fac","111816023868a6d1c016aec":"111816023868a6d1c016aec","24995392868a848322f43b":"24995392868a848322f43b"}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_login]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_display]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_mailchimp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_emails]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_form_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[email-form]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_user_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_page_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Submit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Submit-btn]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_width]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_button_position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cwp-forms-style1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_group_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cwp_field_126786873299]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cwp_custom_form_data_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"12325785196891f4248f38e":"12325785196891f4248f38e","13843299346891f43ebfd32":"13843299346891f43ebfd32","864215342689c7f795af7e":"864215342689c7f795af7e","2026867862689ee43270fac":"2026867862689ee43270fac","111816023868a6d1c016aec":"111816023868a6d1c016aec","24995392868a848322f43b":"24995392868a848322f43b"}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Commander managing cybersecurity measures to protect federal data]]></title>
 		<link>https://idolized-dormouse-c998f2.instawp.site/trumps-quiet-tech-pact-with-nvidia-and-amd-raises-alarm/commander-managing-cybersecurity-measures-to-protect-federal-data/</link>
@@ -12749,78 +12919,6 @@ https://youtu.be/_t4ddF4ZBC8?si=6-rBT-mDFqJJ1vuA
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Support]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/?page_id=3927</link>
-		<pubDate>Thu, 10 Jul 2025 05:39:51 +0000</pubDate>
-		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-		<guid isPermaLink="false">https://metawrite.torontodigits.com/?page_id=3927</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3927</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-10 05:39:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-10 05:39:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-08-12 09:59:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-08-12 09:59:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[support__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1754992743]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[support]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[FAQ]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/?page_id=4323</link>
-		<pubDate>Mon, 21 Jul 2025 04:28:04 +0000</pubDate>
-		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-		<guid isPermaLink="false">https://metawrite.torontodigits.com/?page_id=4323</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4323</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-21 04:28:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-21 04:28:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-08-12 09:59:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-08-12 09:59:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[faq__trashed-2]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1754992747]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[faq]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[20 Dishes That Define American Food]]></title>
 		<link>https://idolized-dormouse-c998f2.instawp.site/top-10-breathtaking-villas-for-your-next-getaway/</link>
 		<pubDate>Sat, 26 Jul 2025 10:53:46 +0000</pubDate>
@@ -13018,8 +13116,8 @@ https://youtu.be/GFwxVavpwVk?si=2dxFRxPU3WZQRex-
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="popular"><![CDATA[Popular]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4612]]></wp:meta_value>
@@ -13899,6 +13997,70 @@ audio/mpeg
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Messi Lifts Argentina to Another Historic Victory]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/messi-lifts-argentina-to-another-historic-victory/</link>
+		<pubDate>Mon, 18 Aug 2025 06:22:34 +0000</pubDate>
+		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
+		<guid isPermaLink="false">https://idolized-dormouse-c998f2.instawp.site/?p=4681</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lionel Messi once again proved his magic on the field as Argentina secured a memorable win. The match drew global attention, uniting fans in celebration across continents. With his leadership, Argentina showed both skill and determination. This victory adds another golden chapter to Messi’s legendary career. The football world hails it as a moment of pride and inspiration. For many, it reinforced why Messi is called the greatest of all time.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4681</wp:post_id>
+		<wp:post_date><![CDATA[2025-08-18 06:22:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-08-18 06:22:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-08-18 07:47:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-08-18 07:47:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[messi-lifts-argentina-to-another-historic-victory]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
+		<category domain="post_tag" nicename="sports"><![CDATA[Sports]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4683]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Olympic Spirit Unites the World Through Sport]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/olympic-spirit-unites-the-world-through-sport/</link>
+		<pubDate>Mon, 18 Aug 2025 06:28:02 +0000</pubDate>
+		<dc:creator><![CDATA[TorontoDigits]]></dc:creator>
+		<guid isPermaLink="false">https://idolized-dormouse-c998f2.instawp.site/?p=4684</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>The Olympic Games bring athletes from every corner of the globe together. They symbolize friendship, respect, and the pursuit of excellence. Each event showcases not just talent, but years of dedication and sacrifice. Fans worldwide celebrate victories that inspire hope and unity. The Games remind us that sport can rise above borders and differences. In every competition, the Olympic spirit shines as a force of global harmony.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4684</wp:post_id>
+		<wp:post_date><![CDATA[2025-08-18 06:28:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-08-18 06:28:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-08-18 06:38:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-08-18 06:38:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[olympic-spirit-unites-the-world-through-sport]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
+		<category domain="post_tag" nicename="sports"><![CDATA[Sports]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4688]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Support]]></title>
 		<link>https://idolized-dormouse-c998f2.instawp.site/support/</link>
 		<pubDate>Mon, 18 Aug 2025 10:44:43 +0000</pubDate>
@@ -13988,6 +14150,127 @@ audio/mpeg
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[AI Tools That Are Changing the Way We Work]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/?p=113</link>
+		<pubDate>Fri, 28 Mar 2025 10:16:07 +0000</pubDate>
+		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
+		<guid isPermaLink="false">http://homeservices.test/?p=113</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>From streamlining workflows to enhancing creative design, AI is revolutionizing productivity in 2025.<br>It automates routine tasks, offers smart insights, and boosts efficiency across industries. Creative tools powered by AI are helping professionals design faster and smarter. This shift is redefining how we work, innovate, and achieve goals.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>113</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-28 10:16:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-28 10:16:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-08-18 04:42:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-08-18 04:42:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ai-tools-that-are-changing-the-way-we-work__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="latest-news"><![CDATA[Latest News]]></category>
+		<category domain="post_tag" nicename="news"><![CDATA[News]]></category>
+		<category domain="post_tag" nicename="technology"><![CDATA[Technology]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[authors_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lorem Ipsum ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author-date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30 Jul 2025]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[button]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Rread more]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[authors_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lorem Ipsum ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author-date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30 Jul 2025]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[button]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Rread more]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[773]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[authors_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lorem Ipsum ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author-date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30 Jul 2025]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[button]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Rread more]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[773]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[authors_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lorem Ipsum ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author-date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30 Jul 2025]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[button]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Rread more]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[lorem-ipsum-has-been-the-3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1755492129]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ai-tools-that-are-changing-the-way-we-work]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Brushes &amp; Bytes: When Tech Inspires Art]]></title>
 		<link>https://idolized-dormouse-c998f2.instawp.site/?p=3755</link>
@@ -14251,67 +14534,159 @@ audio/mpeg
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[Messi Lifts Argentina to Another Historic Victory]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/messi-lifts-argentina-to-another-historic-victory/</link>
-		<pubDate>Mon, 18 Aug 2025 06:22:34 +0000</pubDate>
+		<title><![CDATA[Exploring Modern Architecture in Bali]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/?p=3758</link>
+		<pubDate>Fri, 28 Mar 2025 10:54:00 +0000</pubDate>
 		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-		<guid isPermaLink="false">https://idolized-dormouse-c998f2.instawp.site/?p=4681</guid>
+		<guid isPermaLink="false">http://homeservices.test/?p=117</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lionel Messi once again proved his magic on the field as Argentina secured a memorable win. The match drew global attention, uniting fans in celebration across continents. With his leadership, Argentina showed both skill and determination. This victory adds another golden chapter to Messi’s legendary career. The football world hails it as a moment of pride and inspiration. For many, it reinforced why Messi is called the greatest of all time.</p>
+<p><br>Modern luxury villas in Bali are transforming the hospitality landscape with their blend of privacy, comfort, and cutting-edge design. These villas offer personalized services, stunning natural views, and immersive cultural touches. From infinity pools to open-air living spaces, they deliver a high-end, serene experience.<br>It's a new standard of travel where luxury meets authenticity and relaxation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4681</wp:post_id>
-		<wp:post_date><![CDATA[2025-08-18 06:22:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-08-18 06:22:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-08-18 07:47:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-08-18 07:47:21]]></wp:post_modified_gmt>
+		<wp:post_id>3758</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-28 10:54:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-28 10:54:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-08-18 04:42:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-08-18 04:42:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[messi-lifts-argentina-to-another-historic-victory]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[exploring-modernarchitecture-in-bali__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
-		<category domain="post_tag" nicename="sports"><![CDATA[Sports]]></category>
+										<category domain="category" nicename="latest-news"><![CDATA[Latest News]]></category>
+		<category domain="post_tag" nicename="news"><![CDATA[News]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4683]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Olympic Spirit Unites the World Through Sport]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/olympic-spirit-unites-the-world-through-sport/</link>
-		<pubDate>Mon, 18 Aug 2025 06:28:02 +0000</pubDate>
-		<dc:creator><![CDATA[TorontoDigits]]></dc:creator>
-		<guid isPermaLink="false">https://idolized-dormouse-c998f2.instawp.site/?p=4684</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>The Olympic Games bring athletes from every corner of the globe together. They symbolize friendship, respect, and the pursuit of excellence. Each event showcases not just talent, but years of dedication and sacrifice. Fans worldwide celebrate victories that inspire hope and unity. The Games remind us that sport can rise above borders and differences. In every competition, the Olympic spirit shines as a force of global harmony.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4684</wp:post_id>
-		<wp:post_date><![CDATA[2025-08-18 06:28:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-08-18 06:28:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-08-18 06:38:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-08-18 06:38:12]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[olympic-spirit-unites-the-world-through-sport]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
-		<category domain="post_tag" nicename="sports"><![CDATA[Sports]]></category>
-						<wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_icon]]></wp:meta_key>
+		<wp:meta_value><![CDATA[71]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[02 december 2022]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3 min. to read]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jenny kiaa]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_icon]]></wp:meta_key>
+		<wp:meta_value><![CDATA[71]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[02 december 2022]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3 min. to read]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jenny kiaa]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4688]]></wp:meta_value>
+		<wp:meta_value><![CDATA[805]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_icon]]></wp:meta_key>
+		<wp:meta_value><![CDATA[71]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[02 december 2022]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3 min. to read]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jenny kiaa]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[805]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_icon]]></wp:meta_key>
+		<wp:meta_value><![CDATA[71]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[02 december 2022]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3 min. to read]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[author_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jenny kiaa]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[travel-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1755492129]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[exploring-modernarchitecture-in-bali]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15171,127 +15546,6 @@ https://youtu.be/Ym81W2XHB4c?si=E5oOwy9VZCgrc6Z5
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[AI Tools That Are Changing the Way We Work]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/?p=113</link>
-		<pubDate>Fri, 28 Mar 2025 10:16:07 +0000</pubDate>
-		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-		<guid isPermaLink="false">http://homeservices.test/?p=113</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>From streamlining workflows to enhancing creative design, AI is revolutionizing productivity in 2025.<br>It automates routine tasks, offers smart insights, and boosts efficiency across industries. Creative tools powered by AI are helping professionals design faster and smarter. This shift is redefining how we work, innovate, and achieve goals.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>113</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-28 10:16:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-28 10:16:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-08-18 04:42:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-08-18 04:42:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[ai-tools-that-are-changing-the-way-we-work__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="latest-news"><![CDATA[Latest News]]></category>
-		<category domain="post_tag" nicename="news"><![CDATA[News]]></category>
-		<category domain="post_tag" nicename="technology"><![CDATA[Technology]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[authors_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lorem Ipsum ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author-date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30 Jul 2025]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[button]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Rread more]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[authors_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lorem Ipsum ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author-date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30 Jul 2025]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[button]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Rread more]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[773]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[authors_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lorem Ipsum ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author-date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30 Jul 2025]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[button]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Rread more]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[773]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[authors_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lorem Ipsum ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author-date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30 Jul 2025]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[button]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Rread more]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[lorem-ipsum-has-been-the-3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1755492129]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ai-tools-that-are-changing-the-way-we-work]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Digital Detox: Why 2025 Is the Year to Unplug]]></title>
 		<link>https://idolized-dormouse-c998f2.instawp.site/?p=178</link>
 		<pubDate>Fri, 25 Apr 2025 17:28:00 +0000</pubDate>
@@ -16037,8 +16291,8 @@ https://youtu.be/Ym81W2XHB4c?si=E5oOwy9VZCgrc6Z5
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="popular"><![CDATA[Popular]]></category>
-		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 		<category domain="post_tag" nicename="sports"><![CDATA[Sports]]></category>
+		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -16081,139 +16335,39 @@ https://youtu.be/Ym81W2XHB4c?si=E5oOwy9VZCgrc6Z5
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Exploring Modern Architecture in Bali]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/?p=3758</link>
-		<pubDate>Fri, 28 Mar 2025 10:54:00 +0000</pubDate>
-		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-		<guid isPermaLink="false">http://homeservices.test/?p=117</guid>
+		<title><![CDATA[Top 10 Breathtaking Villas for Your Next Getaway]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/?p=728</link>
+		<pubDate>Wed, 11 Jun 2025 11:47:42 +0000</pubDate>
+		<dc:creator><![CDATA[TorontoDigits]]></dc:creator>
+		<guid isPermaLink="false">http://meta-write-theme-.test/?p=728</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><br>Modern luxury villas in Bali are transforming the hospitality landscape with their blend of privacy, comfort, and cutting-edge design. These villas offer personalized services, stunning natural views, and immersive cultural touches. From infinity pools to open-air living spaces, they deliver a high-end, serene experience.<br>It's a new standard of travel where luxury meets authenticity and relaxation.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
+<p>Perched on a cliff in Phuket, this stunning villa boasts breathtaking ocean views and a sleek infinity pool. Designed for ultimate privacy, it offers a serene and luxurious escape, perfect for a truly relaxing getaway.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3758</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-28 10:54:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-28 10:54:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-08-18 04:42:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-08-18 04:42:09]]></wp:post_modified_gmt>
+		<wp:post_id>728</wp:post_id>
+		<wp:post_date><![CDATA[2025-06-11 11:47:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-06-11 11:47:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-08-18 04:41:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-08-18 04:41:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[exploring-modernarchitecture-in-bali__trashed]]></wp:post_name>
+		<wp:post_name><![CDATA[travel-4__trashed]]></wp:post_name>
 		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="latest-news"><![CDATA[Latest News]]></category>
-		<category domain="post_tag" nicename="news"><![CDATA[News]]></category>
+										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_icon]]></wp:meta_key>
-		<wp:meta_value><![CDATA[71]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[02 december 2022]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3 min. to read]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jenny kiaa]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_icon]]></wp:meta_key>
-		<wp:meta_value><![CDATA[71]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[02 december 2022]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3 min. to read]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jenny kiaa]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[805]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4347]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_icon]]></wp:meta_key>
-		<wp:meta_value><![CDATA[71]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[02 december 2022]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3 min. to read]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jenny kiaa]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[805]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_icon]]></wp:meta_key>
-		<wp:meta_value><![CDATA[71]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[02 december 2022]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3 min. to read]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[author_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jenny kiaa]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -16221,7 +16375,11 @@ https://youtu.be/Ym81W2XHB4c?si=E5oOwy9VZCgrc6Z5
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[travel-2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[the-rise-of-remote-wellness-retreats]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[travel-6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
@@ -16229,11 +16387,11 @@ https://youtu.be/Ym81W2XHB4c?si=E5oOwy9VZCgrc6Z5
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1755492129]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1755492099]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[exploring-modernarchitecture-in-bali]]></wp:meta_value>
+		<wp:meta_value><![CDATA[travel-4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -19155,115 +19313,6 @@ https://youtu.be/Ym81W2XHB4c?si=E5oOwy9VZCgrc6Z5
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/wp-global-styles-astra/</link>
-		<pubDate>Mon, 30 Dec 2024 06:03:30 +0000</pubDate>
-		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-		<guid isPermaLink="false">https://metawrite.torontodigits.com/2024/12/30/wp-global-styles-astra/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2024-12-30 06:03:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-12-30 06:03:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-30 06:03:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-30 06:03:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-astra]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="astra"><![CDATA[astra]]></category>
-						</item>
-					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/navigation-2-2/</link>
-		<pubDate>Mon, 03 Feb 2025 06:35:56 +0000</pubDate>
-		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
-		<guid isPermaLink="false">http://homeservices.test/2025/02/03/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>310</wp:post_id>
-		<wp:post_date><![CDATA[2025-02-03 06:35:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-02-03 06:35:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-03 06:35:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-03 06:35:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation-2-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Top 10 Breathtaking Villas for Your Next Getaway]]></title>
-		<link>https://idolized-dormouse-c998f2.instawp.site/?p=728</link>
-		<pubDate>Wed, 11 Jun 2025 11:47:42 +0000</pubDate>
-		<dc:creator><![CDATA[TorontoDigits]]></dc:creator>
-		<guid isPermaLink="false">http://meta-write-theme-.test/?p=728</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Perched on a cliff in Phuket, this stunning villa boasts breathtaking ocean views and a sleek infinity pool. Designed for ultimate privacy, it offers a serene and luxurious escape, perfect for a truly relaxing getaway.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>728</wp:post_id>
-		<wp:post_date><![CDATA[2025-06-11 11:47:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-06-11 11:47:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-08-18 04:41:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-08-18 04:41:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[travel-4__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4347]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[the-rise-of-remote-wellness-retreats]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[travel-6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1755492099]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[travel-4]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[How to Grow Your Startup in a Competitive Market]]></title>
 		<link>https://idolized-dormouse-c998f2.instawp.site/?p=3779</link>
 		<pubDate>Wed, 11 Jun 2025 11:19:51 +0000</pubDate>
@@ -19323,6 +19372,55 @@ https://youtu.be/Ym81W2XHB4c?si=E5oOwy9VZCgrc6Z5
 		<wp:meta_value><![CDATA[business]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/wp-global-styles-astra/</link>
+		<pubDate>Mon, 30 Dec 2024 06:03:30 +0000</pubDate>
+		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
+		<guid isPermaLink="false">https://metawrite.torontodigits.com/2024/12/30/wp-global-styles-astra/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2024-12-30 06:03:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-12-30 06:03:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-12-30 06:03:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-30 06:03:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-astra]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="astra"><![CDATA[astra]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://idolized-dormouse-c998f2.instawp.site/navigation-2-2/</link>
+		<pubDate>Mon, 03 Feb 2025 06:35:56 +0000</pubDate>
+		<dc:creator><![CDATA[Abdullah Ramzan]]></dc:creator>
+		<guid isPermaLink="false">http://homeservices.test/2025/02/03/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>310</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-03 06:35:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-03 06:35:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-03 06:35:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-03 06:35:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation-2-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://idolized-dormouse-c998f2.instawp.site/navigation-2/</link>
