@@ -8281,10 +8281,11 @@
 		<wp:meta_key><![CDATA[_cwp_group_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[cwp-forms-style3]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cwp_group_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cwp_field_532461556218,cwp_field_215607959299,cwp_field_795539147799]]></wp:meta_value>
-		</wp:postmeta>
+		<wp:postmeta>
+   <wp:meta_key><![CDATA[cwp_field_532461556218]]></wp:meta_key>
+   <wp:meta_value><![CDATA[{"type":"text","label":"Your Name","required":"yes"}]]></wp:meta_value>
+</wp:postmeta>
+
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_cwp_custom_form_data_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{"33763512268941dd4dbc5f":"33763512268941dd4dbc5f"}]]></wp:meta_value>
@@ -8417,10 +8418,11 @@
 		<wp:meta_key><![CDATA[_cwp_group_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[cwp-forms-style1]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cwp_group_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cwp_field_126786873299]]></wp:meta_value>
-		</wp:postmeta>
+		<wp:postmeta>
+   <wp:meta_key><![CDATA[cwp_field_126786873299_label]]></wp:meta_key>
+   <wp:meta_value><![CDATA[Your Email Address]]></wp:meta_value>
+</wp:postmeta>
+
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_cwp_custom_form_data_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{"12325785196891f4248f38e":"12325785196891f4248f38e","13843299346891f43ebfd32":"13843299346891f43ebfd32","864215342689c7f795af7e":"864215342689c7f795af7e","2026867862689ee43270fac":"2026867862689ee43270fac","111816023868a6d1c016aec":"111816023868a6d1c016aec","24995392868a848322f43b":"24995392868a848322f43b"}]]></wp:meta_value>
